@@ -1,0 +1,9 @@
+#can run as SOAP and REST
+http://localhost:8089/cxf-web/services/
+
+http://localhost:8089/cxf-web/services/empCrud/list
+http://localhost:8089/cxf-web/services/empCrud/save
+http://localhost:8089/cxf-web/services/empCrud/get/1
+http://localhost:8089/cxf-web/services/empCrud/delete/1
+
+Test with SOAPUI for wsdl
